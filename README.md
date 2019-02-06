@@ -9,7 +9,7 @@ Técnologias Utilizadas
 -
 - Python 3.7.1 
 - Django
-- Para mais informações veja [Requeriments](https://github.com/lariodiniz/teste_meta/blob/master/requeriments.txt) 
+- Para mais informações veja [Requeriments](https://github.com/lariodiniz/teste_meta/blob/master/requirements.txt) 
 
 Funcionalidades 
 -
@@ -66,7 +66,7 @@ Como Testar
 
 Licença
 -
-[MIT](https://github.com/lariodiniz/teste_meta/blob/master/LICENSE.md)
+[MIT](https://github.com/lariodiniz/teste_meta/blob/master/LICENSE)
 
 ![Python](https://github.com/lariodiniz/teste_meta/blob/master/docs/imgs/python_logo.png)
-![Django](https://github.com/lariodiniz/teste_meta/blob/master/docs/imgs/django_logo.jpg)
+![Django](https://github.com/lariodiniz/teste_meta/blob/master/docs/imgs/django_logo.png)
