@@ -1,0 +1,3 @@
+from .programs_view_test_case import ProgramsViewTestCase
+from .cutting_job_view_test_case import CuttingJobsViewTestCase
+from .globo_play_view_test_case import GloboPlayViewTestCase

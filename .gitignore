@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.vscode/settings.json
+tests/teste.bd
+codes/integration/globo_videos_cuts/bd.db
+codes/api/api.bd
